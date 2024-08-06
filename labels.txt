@@ -1,0 +1,8 @@
+0	Background
+1	Cable
+2	Candles
+3	Deodorant
+4	Ethanol
+5	Hairspray
+6	Lunts
+7	Wood
